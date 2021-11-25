@@ -1,1 +1,1 @@
-# AI61009-AI4Manufacturing-Term-Project
+# AI61009-AI4Manufacturing Term Project: AI-BASED MOTION PLANNING OF AN ARTICULATED ROBOT ARM
